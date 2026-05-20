@@ -122,20 +122,73 @@ falling through the cracks between shifts.
 
 **Handover Template:**
 
-Date: [DATE]
-Agent: [NAME]
-Shift: [START TIME] to [END TIME]
-Open Tickets: [NUMBER]
-Resolved Tickets: [NUMBER]
-Escalated Tickets: [NUMBER]
-Urgent Cases:
+    Date: [DATE]
+    Agent: [NAME]
+    Shift: [START TIME] to [END TIME]
 
-[Ticket ID] — [Brief description] — [Next step]
+    Open Tickets: [NUMBER]
+    Resolved Tickets: [NUMBER]
+    Escalated Tickets: [NUMBER]
 
-Follow Ups Required:
+    Urgent Cases:
+    - [Ticket ID] — [Brief description] — [Next step]
 
-[Customer name] — [Issue] — [Due by]
+    Follow Ups Required:
+    - [Customer name] — [Issue] — [Due by]
 
-Notes for Next Agent:
+    Notes for Next Agent:
+    - [Any important information]
 
-[Any important information]
+## Performance and Accountability
+**Daily Self Check:**
+- Am I meeting my SLA targets?
+- Is my CSAT score on track?
+- Are my tickets updated and documented?
+- Have I communicated blockers to my Team Lead?
+- Am I maintaining quality across all interactions?
+
+**Weekly Review:**
+| Metric | Target | My Performance |
+|---|---|---|
+| CSAT Score | 90%+ | Track weekly |
+| SLA Compliance | 95-100% | Track weekly |
+| First Contact Resolution | 70%+ | Track weekly |
+| Average Handle Time | Reduce monthly | Track weekly |
+| Tickets Resolved | Meet daily target | Track daily |
+
+## Remote Work Best Practices
+- Treat remote work with the same professionalism 
+  as office work
+- Maintain regular working hours and stick to them
+- Communicate availability clearly on Slack
+- Never go silent during working hours
+- Build relationships with teammates deliberately — 
+  remote work can feel isolating
+- Take breaks away from the screen regularly
+- Keep your workspace organised and distraction free
+- Invest in your own development — certifications, 
+  courses, reading
+- Ask for feedback regularly and act on it
+- Celebrate your wins — remote workers often go unnoticed
+
+## Common Remote Work Challenges
+
+| Challenge | Solution |
+|---|---|
+| Internet outage | Always have mobile data backup ready |
+| Feeling isolated | Stay active on team channels and check ins |
+| Distractions at home | Dedicated workspace and set boundaries |
+| Communication gaps | Over communicate — update status regularly |
+| Burnout | Strict start and end times, regular breaks |
+| Missing context | Document everything, ask questions early |
+| Time zone differences | Confirm meeting times in your local time always |
+
+## Tools Used
+[Slack](https://slack.com) | 
+[Zoom](https://zoom.us) | 
+[Notion](https://www.notion.so) | 
+[Trello](https://trello.com) | 
+[Monday.com](https://monday.com) | 
+[Google Workspace](https://workspace.google.com) | 
+[HubSpot](https://www.hubspot.com) | 
+[Zendesk](https://www.zendesk.com)
